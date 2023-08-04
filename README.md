@@ -1,5 +1,8 @@
-# ticket-lifecycle
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 <p>
   
 The importance of Service Level Agreements (SLAs) in osTicket lies in their ability to establish clear expectations and guidelines for both the support team and the customers. SLAs define response and resolution times, ensuring that tickets are addressed in a timely manner. They play a crucial role in managing customer satisfaction and building trust in the support process. The lifecycle of an SLA in osTicket typically involves creating SLA rules, setting priority levels, and tracking SLA performance metrics. This ensures that support teams can effectively prioritize and address tickets based on their designated SLAs, while also allowing for continuous evaluation and improvement of support processes to meet or exceed SLA targets.
